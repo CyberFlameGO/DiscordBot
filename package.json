@@ -1,0 +1,14 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "A discord bot to bot the discord",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Toonsy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+  }
+}
