@@ -2,7 +2,7 @@
   "name": "DiscordBot",
   "version": "1.0.0",
   "description": "A discord bot to bot the discord",
-  "main": "src/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "node ."
   },
